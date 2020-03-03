@@ -1,0 +1,10 @@
+# python 3.6
+opencv==3.4.0
+numpy==1.17.4
+tensorflow==1.14.0
+
+Testing on images folder:
+>python testing_on_video.py images_folder
+
+Testing on video:
+>python testing_on_video.py video.mp4 out.mp4
