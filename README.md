@@ -19,7 +19,7 @@ Model: SSD mobilenetv2
     >python testing_on_video.py video.mp4 out.mp4
     
     
-###Results:
+### Results:
 
 ![image 1](images/3712_predicted.jpg)
 
