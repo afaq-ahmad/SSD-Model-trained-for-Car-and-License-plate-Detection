@@ -1,6 +1,6 @@
 # python 3.6
 opencv==3.4.0
-numpy==1.17.4
+numpy
 tensorflow
 
 Testing on images folder:
