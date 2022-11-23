@@ -5,7 +5,7 @@ SSD Model trained for Car and License plate Detection
 ### Tested On:
     python 3.6
     opencv==3.4.0
-    numpy==1.17.4
+    numpy
     tensorflow==1.14.0
 
 
